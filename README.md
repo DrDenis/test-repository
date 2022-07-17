@@ -1,8 +1,2 @@
-# test-repository
-This is a test description
-
-This is a new edit from my local computer
-
-## Another commit
-
-### Another h3 title here
+# My first repository
+This is a test repo for learning GIT
